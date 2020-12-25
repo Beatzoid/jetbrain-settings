@@ -1,0 +1,11 @@
+<templateSet group="user">
+  <template name="Rh" value="import React from 'react';&#10;&#10;interface Props {&#10;    &#10;}&#10;&#10;export const register: React.FC&lt;Props&gt; = ({}) =&gt; {&#10;    return ($END$);&#10;}" description="Typescript React Function Component" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
+      <option name="TS_STATEMENT" value="true" />
+      <option name="TS_TOP_LEVEL_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
