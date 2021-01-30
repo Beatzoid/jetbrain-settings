@@ -4,6 +4,7 @@
       <mapping ext="lock" type="AUTO_DETECTED" />
       <mapping pattern=".prettierignore" type="GitIgnore file" />
       <mapping ext="graphqlconfig" type="JSON" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="traineddata" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
