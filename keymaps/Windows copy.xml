@@ -1,4 +1,8 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="shift escape" />
+  </action>
+  <action id="HideActiveWindow" />
   <action id="Macro.Format Code, Organize Imports, Save">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
