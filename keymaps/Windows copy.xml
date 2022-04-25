@@ -2,9 +2,15 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
   </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorSelectWord" />
   <action id="HideActiveWindow" />
   <action id="Macro.Format Code, Organize Imports, Save">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="SaveAll" />
+  <action id="UsageFiltering.WriteAccess" />
 </keymap>
