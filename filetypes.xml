@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="gradlew" type="AUTO_DETECTED" />
       <mapping ext="lock" type="AUTO_DETECTED" />
+      <mapping ext="wav" type="AUTO_DETECTED" />
       <mapping pattern=".prettierignore" type="GitIgnore file" />
       <mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
