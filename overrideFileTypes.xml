@@ -1,0 +1,6 @@
+<application>
+  <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/Desktop/Coding/java/logic-engine/src/main/resources/shaders/DefaultShader.fs" value="Glsl File" />
+    <file url="file://$USER_HOME$/Desktop/Coding/java/logic-engine/src/main/resources/shaders/DefaultShader.vs" value="Glsl File" />
+  </component>
+</application>
